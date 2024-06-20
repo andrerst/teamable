@@ -1,0 +1,7 @@
+node_modules
+/dist
+teamable-*.tgz
+
+/package
+TeamableApp_notes.txt
+ps-1.0.0.tgz
